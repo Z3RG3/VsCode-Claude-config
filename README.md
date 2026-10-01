@@ -1,6 +1,8 @@
 # VsCode-Claude-config
 For easy setup my currently used config, it's structure and some draft (-> knowledge) files for easier setup next time.
 
+MacOs addons : Lunar (monitor brightness control) , Maccy, Rectangle / OnePiece , 
+
 macOS (Apple Silicon), bash, VS Code (no other IDEs), Claude Code, Databricks.
 
 ## What's here and where it lives
