@@ -1,9 +1,26 @@
 # VsCode-Claude-config
 For easy setup my currently used config, it's structure and some draft (-> knowledge) files for easier setup next time.
 
-MacOs addons : Lunar (monitor brightness control) , Maccy, Rectangle / OnePiece , 
-
 macOS (Apple Silicon), bash, VS Code (no other IDEs), Claude Code, Databricks.
+
+## macOS add-ons
+
+Utilities I install on a fresh Mac. Apps marked `brew` are in the [Brewfile](brew/Brewfile), the rest are installed by hand.
+
+| App | What it does | Install |
+|---|---|---|
+| Lunar | External monitor brightness and volume control | manual |
+| Maccy | Clipboard history manager | manual |
+| Rectangle | Window snapping with keyboard shortcuts | manual |
+| AltTab | Windows-style window switcher on Alt+Tab | manual |
+| Karabiner-Elements | Keyboard remapping | `brew` |
+| MiddleClick | Three-finger tap acts as middle click | manual |
+| Music Decoy | Stops media keys and Bluetooth devices from launching Apple Music | `brew` |
+| AppCleaner | Uninstalls apps together with their leftover files | manual |
+| 1Password | Password manager | manual |
+| CotEditor | Lightweight plain-text editor | manual |
+| Sublime Text | Text editor for large files | manual |
+| Fork | Git GUI client | manual |
 
 ## What's here and where it lives
 
