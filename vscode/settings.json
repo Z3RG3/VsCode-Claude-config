@@ -1,0 +1,27 @@
+{
+    "security.workspace.trust.untrustedFiles": "open",
+    "workbench.secondarySideBar.defaultVisibility": "hidden",
+    "diffEditor.renderSideBySide": false,
+    "git.autofetch": true,
+    "git.confirmSync": false,
+    "redhat.telemetry.enabled": false,
+    "claudeCode.preferredLocation": "panel",
+    "claudeCode.hideOnboarding": true,
+    "files.associations": {
+        "*.sql": "spark-sql"
+    },
+    "editor.tokenColorCustomizations": {
+        "textMateRules": [
+            {
+                "scope": [
+                    "storage.type.definition.spark",
+                    "keyword.parameter.spark",
+                    "keyword.control.spark",
+                    "keyword.operator.logical.spark",
+                    "keyword.operator.relational.spark"
+                ],
+                "settings": { "foreground": "#569CD6" }
+            }
+        ]
+    }
+}

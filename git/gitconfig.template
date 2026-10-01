@@ -1,0 +1,7 @@
+[user]
+	name = <your-name>
+	email = <your-email>
+[core]
+	excludesfile = ~/.gitignore_global
+[fetch]
+	prune = true

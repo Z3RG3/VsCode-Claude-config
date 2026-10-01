@@ -1,0 +1,7 @@
+[__settings__]
+default_profile = <profile-name>
+
+[<profile-name>]
+host       = https://<workspace>.azuredatabricks.net
+auth_type  = databricks-cli
+cluster_id = <cluster-id>

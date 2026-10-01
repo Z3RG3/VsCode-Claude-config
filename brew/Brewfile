@@ -1,0 +1,10 @@
+tap "databricks/tap"
+
+brew "git"
+brew "databricks/tap/databricks"
+brew "azure-cli"
+brew "powershell", link: false
+
+cask "karabiner-elements"
+cask "music-decoy"
+cask "powershell"

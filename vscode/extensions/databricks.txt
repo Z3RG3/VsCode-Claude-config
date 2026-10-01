@@ -1,0 +1,3 @@
+databricks.databricks
+camilesing.hive-sql-helper
+lucien-martijn.parquet-visualizer
